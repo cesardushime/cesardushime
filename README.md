@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Cesar Dushimimana!
+# Hi there, I'm Cesar Dushimimana!
 
 ## 📌 About Me  
 I'm an aspiring **AI Developer & Data Scientist** passionate about building smart, ethical, and impactful solutions using **machine learning**, **data automation**, and **generative AI**.
