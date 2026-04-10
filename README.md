@@ -28,4 +28,5 @@ BSc in Artificial Intelligence & Management — Luiss Guido Carli University (Ro
 
 ## 📊 GitHub Stats  
 
-![Cesar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cesardushime&show_icons=true&theme=radical)_
+![Cesar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cesardushime&show_icons=true&theme=radical)
+
